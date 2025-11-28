@@ -1,6 +1,13 @@
 {
-  "is_active": true,
-  "zip_url": "https://github.com/realapk-alt/Discovery/raw/refs/heads/main/files.zip",
-  "dialog_title": "New Update Available",
-  "dialog_message": "Downloading new resources..."
+  "update_system": {
+    "show_update_dialog": false,
+    "title": "New Version Available",
+    "message": "Please update the app to continue.",
+    "download_link": "https://example.com/app.apk"
+  },
+  "injection_system": {
+    "is_active": true,
+    "zip_url": "https://github.com/realapk-alt/Discovery/raw/refs/heads/main/files.zip",
+    "data_version": 1
+  }
 }
