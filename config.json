@@ -1,6 +1,6 @@
 {
   "is_active": true,
-  "zip_url": "https://example.com/your-data.zip",
+  "zip_url": "https://github.com/realapk-alt/Discovery/raw/refs/heads/main/files.zip",
   "dialog_title": "New Update Available",
   "dialog_message": "Downloading new resources..."
 }
